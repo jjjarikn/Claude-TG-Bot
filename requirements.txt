@@ -1,6 +1,6 @@
 aiogram
 anthropic
-httpx
+httpx[socks]
 python-dotenv
 pypdf
 openai
