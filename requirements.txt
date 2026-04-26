@@ -1,0 +1,5 @@
+aiogram
+anthropic
+httpx
+python-dotenv
+pypdf
